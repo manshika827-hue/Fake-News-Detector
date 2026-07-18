@@ -1,0 +1,9 @@
+# Ignore datasets
+01_dataset/
+
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
